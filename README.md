@@ -1,0 +1,2 @@
+Esse foi um projeto que eu desenvolvi através de um vídeo no youtube, e ele me ajudou bastante
+com algumas dificuldades que eu estava principalmente em CSS (O vídeo está disponível através da aba "tutorial")
